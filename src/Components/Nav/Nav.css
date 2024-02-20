@@ -1,0 +1,14 @@
+nav {
+    padding: 1.4rem;
+    ul {
+      display: flex;
+      gap: 1rem;
+      justify-content: flex-end;
+      font-size: 1.3rem;
+    }
+    li {
+      list-style: none;
+      box-shadow: 5px 5px 10px rgb(251, 110, 2);
+      border-radius: 37%;
+    }
+  }
