@@ -1,0 +1,71 @@
+{
+    "demons": [
+      {
+        "name": "Lucifer",
+        "origin": "Christianity, Judaism",
+        "role": "Fallen angel and rebel against God.",
+        "imge_url":"https://i.pinimg.com/736x/95/ba/c5/95bac58e2bc212bfc29b4e28b21e0740.jpg"
+      },
+      {
+        "name": "Asmodeus",
+        "origin": "Judaism",
+        "role": "The demon of wrath and evil, sometimes linked to lust.",
+        "imge_url":"https://i.ytimg.com/vi/-GPMGMwuasQ/maxresdefault.jpg"
+      },
+      {
+        "name": "Baal",
+        "origin": "Phoenicia, Mesopotamia",
+        "role": "God in ancient cultures, later associated with demon.",
+        "imge_url":"https://t3.ftcdn.net/jpg/05/45/11/76/360_F_545117685_INbe65HGzujXgUP5ApmFNFcJ5URXGXL6.jpg"
+      },
+      {
+        "name": "Mammon",
+        "origin": "Christianity",
+        "role": "Represents greed and wealth.",
+        "imge_url":"https://arsgoetiademons.com/cdn/shop/files/MAMMONINITIATION.png?v=1702032893"
+      },
+      {
+        "name": "Beelzebub",
+        "origin": "Christianity",
+        "role": "High Demon in Hell, leader of Demons.",
+        "imge_url":"https://images.nightcafe.studio/jobs/25tpmYR1YWhlsuss7u3A/25tpmYR1YWhlsuss7u3A--1--1ew8u.jpg?tr=w-1600,c-at_max"
+      },
+      {
+        "name": "Belial",
+        "origin": "Judaism",
+        "role": "Linked to evil and alienation from God.",
+        "imge_url":"https://arsgoetiademons.com/cdn/shop/files/belialINITIATION_1.png?v=1702035239"
+      },
+      {
+        "name": "Lilith",
+        "origin": "Judaism mythology",
+        "role": "Demonic figure, sometimes associated with child stealing.",
+        "imge_url":"https://i.pinimg.com/originals/7c/e7/98/7ce798b69e5e6265e5a10b7a460cebc6.jpg"
+      },
+      {
+        "name": "Azazel",
+        "origin": "Judaism",
+        "role": "The demon or fallen angel, sometimes linked to sin and the scapegoat tradition.",
+        "imge_url":"https://arsgoetiademons.com/cdn/shop/files/AZAZELINITIATION.png?v=1702035316"
+      },
+      {
+        "name": "Leviathan",
+        "origin": "Christianity, Judaism",
+        "role": "Described as a sea monster or dragon, sometimes associated with demonic evil.",
+        "imge_url":"https://i.pinimg.com/originals/a9/76/59/a97659ae5338688f40c3c2fc5231ebc0.jpg"
+      },
+      {
+        "name": "Succubus/Incubus",
+        "origin": "Folklore",
+        "role": "Demonic beings who tempt people through sexual seduction in their sleep.",
+        "imge_url":"https://static.wikia.nocookie.net/the-three-realms/images/5/5d/Succubus-anime-16.jpg/revision/latest?cb=20140310055800"
+      },
+      {
+        "name": "Mazikeen",
+        "origin": "DC Comics",
+        "role": "Demon, loyal companion and advisor to Lucifer Morningstar.",
+        "imge_url":"https://i.pinimg.com/originals/8d/3b/53/8d3b53a8a602a7b8b52f9fec7eaf0dff.jpg"
+      }
+    ]
+  }
+  

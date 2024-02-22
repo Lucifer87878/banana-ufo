@@ -3,6 +3,7 @@
     margin: 1rem;
     font-size: 2rem;
     
+    
     &.cta {
         background-color: rgba(255, 145, 0, 0.88);
         box-shadow: 5px 5px 10px;
@@ -12,4 +13,9 @@
         background-color: rgba(150, 9, 245, 0.768);
         box-shadow: 5px 5px 10px;
     }
-}
+
+    btn:hover {
+        border-color: #ff00337d;
+        box-shadow: 15px 15px 20px #ff0033;
+    }
+  }

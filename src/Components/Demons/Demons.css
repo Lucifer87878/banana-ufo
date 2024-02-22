@@ -1,0 +1,36 @@
+/* .DemonsImage {
+    border-radius: 37%;
+    max-width: 170px;
+    max-height: 270px;
+} */
+
+.DemonsContainer {
+    max-width: 200px;
+    margin-top: 3rem;
+    margin-left: 15rem;
+    padding: 15px;
+    border: 1px solid hotpink;
+    border-radius: 35px;
+    text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+ 
+      margin: 10px;
+      text-align: center;
+
+    .DemonsImage {
+        border-radius: 37%;
+        max-width: 170px;
+        max-height: 270px;
+        flex: 0 0 45%;
+    }
+
+    p {
+        justify-content: center;
+        color: aqua;
+        margin-bottom: 0.8rem;
+        flex: 2;
+
+    }
+}
