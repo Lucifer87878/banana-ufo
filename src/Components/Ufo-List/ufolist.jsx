@@ -5,7 +5,7 @@ function UfoList() {
         <>
             <article className='UfoList'>
                 <ul>
-                    <h2> 🛸 --- Most wanted Ufos --- 🛸</h2>
+                    <h2>---🛸Most wanted🛸</h2>
                     
                 
                     <li className='card'>

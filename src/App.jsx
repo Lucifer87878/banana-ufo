@@ -10,12 +10,20 @@ import DemonsBox from "./Components/Demons_folder/DemonsBox.jsx";
 const App = () => {
     return ( 
         <>
-            <Nav />        
-            <Header/>      
+            <Nav />
+            <section className='Header-h1'>       
+            <Header/>
+            </section>
+            <section className='BTN-F'>       
             <Btn />
-            <section className='Disply-Cards'>   
+            </section>
+            <section className='Info-Box'>
+            <section className='UFO-Ls'>
             <UfoList /> 
+            </section>
+            <section className='Disply-Cards'>   
             <DemonsBox />
+            </section>  
             </section>     
         </>
     );

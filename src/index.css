@@ -60,9 +60,34 @@
   }
 
 .Disply-Cards {
-  /* justify-content: center; */
   align-items: center;
-  /* display: flex; */
+  display: flex;
   flex-wrap: wrap;
-  gap: 1rem;
+}
+.Info-Box {
+  display: flex;
+}
+
+.UFO-Ls {
+  flex: 1;
+}
+
+.Disply-Cards {
+  flex: 1;
+}
+.Info-Box {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 75rem; 
+}
+
+.Header-h1 {
+  align-items: center;
+  padding-left: 41.5rem;
+
+}
+
+.BTN-F {
+  align-items: center;
+  padding-left: 52rem;
 }
